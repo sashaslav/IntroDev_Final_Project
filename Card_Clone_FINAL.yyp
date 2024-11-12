@@ -4,6 +4,7 @@
   "name": "Card_Clone_FINAL",
   "resources": [
     {"id":{"name":"snd_card","path":"sounds/snd_card/snd_card.yy",},"order":0,},
+    {"id":{"name":"spr_fake","path":"sprites/spr_fake/spr_fake.yy",},"order":8,},
     {"id":{"name":"spr_card","path":"sprites/spr_card/spr_card.yy",},"order":1,},
     {"id":{"name":"fnt_score","path":"fonts/fnt_score/fnt_score.yy",},"order":0,},
     {"id":{"name":"obj_card","path":"objects/obj_card/obj_card.yy",},"order":1,},

@@ -1,4 +1,8 @@
 
+var fakevar = 0;
+var playername = "link";
+//this is just a test for github stuff
+
 //enum = set of constants
 enum STATES
 {
